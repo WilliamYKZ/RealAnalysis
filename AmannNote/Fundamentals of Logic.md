@@ -93,3 +93,26 @@ $$
 $$
 
 The statement $\neg B \Rightarrow \neg A$ is called the **contrapositive** of the statement $A \Rightarrow B$. 
+
+
+
+4. To define a statement $A$ so that it is true whenever the statement $B$ is true, we write 
+
+$$
+A:\Leftrightarrow B
+$$
+
+and say 'A is true, by definition, if B is true.'
+
+
+
+5. In mathemtics a true statement is often called a proposition, theorem, lemma or corollary. 
+
+
+
+6. For $A\Rightarrow B$. Since the statement is automatically true if $A$ is false, the only interesting case is when $A$ is true. Thus to prove $A\Rightarrow B$ is true, one suppose that $A$ is true and then shows that $B$ is true.
+
+
+
+7. The proof can proceed directly or "by contradiction". For a proof by contradiction one suppose that $B$ is false, that is $\neg B$ is true. Then one proves, using also the assumption that $A$ is true, a statement $C$ which is already known to be false. It follows from this 'contradiction' that $\neg B$ cannot be true, and hence that $B$ is true. 
+
